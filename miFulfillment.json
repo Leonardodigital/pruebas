@@ -1,0 +1,21 @@
+{
+   "fulfillmentMessages":[
+      {
+        "quickReplies": {
+          "quickReplies": [
+            "Si",
+            "No",
+            "Tal vez"
+          ]
+        },
+        "platform": "FACEBOOK"
+      },
+      {
+        "text": {
+          "text": [
+            "Un poco de texto random"
+          ]
+        }
+      }
+    ]
+}
